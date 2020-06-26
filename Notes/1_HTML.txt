@@ -1,0 +1,33 @@
+13. 
+HTML-> HyperTextMarkup Language
+<h1></h1>, <h2></h2>, ...,<h6></h6>
+<br>
+<hr>
+
+14. 
+https://docs.emmet.io/cheat-sheet/
+
+HTML snippet: 
+    nav>ul>li
+    div+p+bq
+    div+div>p>span+em^bq
+    ul>li*5
+    ul>li.item$*5
+    #header
+    title
+    form#search.wide
+    ol[type="i"]            : custom attribute
+
+15. 
+    <p></p>     : paragraf
+    <em></em>   : italic
+    <i></i>     : italic
+    <b></b>     : bold
+    <strong></strong> : bold
+
+16.
+    <ul></ul>           : unordered list
+    <ol></ol>           : order list
+
+17.
+    <img scr="">       : image 
