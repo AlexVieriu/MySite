@@ -11,3 +11,11 @@ hr{
     border-top: dotted lightgrey 5px ;
     width: 10%;
 }
+
+h1{
+    color: rgb(38, 199, 199);
+}
+
+h3{
+    color: rgb(38, 199, 199)
+}

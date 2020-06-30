@@ -73,3 +73,17 @@ HTML snippet:
     CSS order:  inline css
                 internal css 
                 external css
+
+
+37. The Anatomy of Css Syntax
+    https://emojipedia.org/
+    https://www.appbrewery.co/p/web-development-course-resources
+    
+38. Css Selecters
+    class attribute     : class = "";
+
+39. Classes vs IDs
+    .class
+    #id
+
+40.
