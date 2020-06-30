@@ -1,0 +1,57 @@
+13. 
+HTML-> HyperTextMarkup Language
+<h1></h1>, <h2></h2>, ...,<h6></h6>
+<br>
+<hr>
+
+14. 
+https://docs.emmet.io/cheat-sheet/
+
+HTML snippet: 
+    nav>ul>li
+    div+p+bq
+    div+div>p>span+em^bq
+    ul>li*5
+    ul>li.item$*5
+    #header
+    title
+    form#search.wide
+    ol[type="i"]            : custom attribute
+
+15. 
+    <p></p>     : paragraf
+    <em></em>   : italic
+    <i></i>     : italic
+    <b></b>     : bold
+    <strong></strong> : bold
+
+16.
+    <ul></ul>           : unordered list
+    <ol></ol>           : order list
+
+17.
+    <img scr="">       : image 
+    https://crop-circle.imageonline.co/  
+
+18. 
+    <a></a>
+
+20. 
+    <table></table>     : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+    <tr></tr>           : table row
+    <td></td>           : table data
+        
+    table>tr*2>td*2
+    
+    table>thead>tbody   : used to fix the theader if u scroll down the table
+
+21. 
+    -> have the profile image and the text on the same table but seperate columns
+    table>tr>td*2       
+    <table cellspacing="10"></table>
+
+24.
+    Nested Table
+    table>table*2>tr*2>td*2     : with <table border="1"></table>
+
+25.
