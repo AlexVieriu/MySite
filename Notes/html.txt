@@ -55,3 +55,21 @@ HTML snippet:
     table>table*2>tr*2>td*2     : with <table border="1"></table>
 
 25.
+    inputs.html
+
+32. Inline Css
+    site model      : http://seanhalpin.io/
+    inline css      : <body style="background-color: blue;">
+    color palet     : https://colorhunt.co/
+
+33. Internal CSS
+    <style>
+        body{
+            background-color: lightcyan;
+        }
+    </style>
+
+34.
+    CSS order:  inline css
+                internal css 
+                external css
