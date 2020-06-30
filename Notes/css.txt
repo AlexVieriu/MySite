@@ -1,0 +1,15 @@
+32. Inline CSS
+model site      : http://seanhalpin.io/
+color palet     : https://colorhunt.co/   
+  
+  <body style="background-color: lightcyan;">
+
+33. Internal CSS
+
+default CSS : https://www.w3schools.com/cssref/css_default_values.asp
+link css    : <link rel="stylesheet" href="css/style.css">    
+
+Css Priority:
+-> .css
+-> css in html
+-> css in html tag
