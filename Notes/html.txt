@@ -54,4 +54,40 @@ HTML snippet:
     Nested Table
     table>table*2>tr*2>td*2     : with <table border="1"></table>
 
+<<<<<<< HEAD
 25. 
+=======
+25.
+    inputs.html
+
+32. Inline Css
+    site model      : http://seanhalpin.io/
+    inline css      : <body style="background-color: blue;">
+    color palet     : https://colorhunt.co/
+
+33. Internal CSS
+    <style>
+        body{
+            background-color: lightcyan;
+        }
+    </style>
+
+34.
+    CSS order:  inline css
+                internal css 
+                external css
+
+
+37. The Anatomy of Css Syntax
+    https://emojipedia.org/
+    https://www.appbrewery.co/p/web-development-course-resources
+    
+38. Css Selecters
+    class attribute     : class = "";
+
+39. Classes vs IDs
+    .class
+    #id
+
+40.
+>>>>>>> dcbe58703d6e1f7b94ba6cb6a6e7c20d22303b50
