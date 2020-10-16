@@ -54,9 +54,6 @@ HTML snippet:
     Nested Table
     table>table*2>tr*2>td*2     : with <table border="1"></table>
 
-<<<<<<< HEAD
-25. 
-=======
 25.
     inputs.html
 
@@ -90,4 +87,3 @@ HTML snippet:
     #id
 
 40.
->>>>>>> dcbe58703d6e1f7b94ba6cb6a6e7c20d22303b50
