@@ -1,0 +1,31 @@
+4. How to Get the Most Out of the Course
+
+-> watch the video 10 min then try to understant it, then write it
+-> take notes
+
+File -> AutoSave
+
+
+5. 12 rules Lear to Code(pdf)
+
+
+6.How does the internet actually work?
+
+DNS server : Domain name system server
+google.com : 172.217.16.206 
+
+Client(google.com) -> Internet Service Provider -> DNS Server
+DNS server(172.217.16.206) -> Internet Service Provider -> Client(172.217.16.206) 
+Client(172.217.16.206) -> Internet Service Provider -> Google Server
+Google Server(HTML, CSS, JAVASCRIPT)->Internet Service Provider -> Client
+
+https://www.submarinecablemap.com/
+
+
+7. How do websites work?
+
+Html, Css, JS role
+https://techcrunch.com/?guccounter=1
+
+
+8. Setup Your Local Web Development Environment
